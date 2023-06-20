@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * is written by mbah
+ * is written by Ezinne
  * Return: 0
  */
 
@@ -17,4 +17,4 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 return (0);
-}	
+}
